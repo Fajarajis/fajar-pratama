@@ -1,0 +1,29 @@
+html {
+  z-index: 99999;
+  scroll-behavior: smooth;
+}
+.hero-section {
+  padding-top: 8rem;
+  background-color: #ecf4d6;
+  height: 650px;
+}
+.aboutme {
+  padding-top: 8rem;
+  background-color: #637e76;
+  height: 700px;
+}
+#gallery {
+  height: 700px;
+  padding-top: 8rem;
+}
+#gallery .container .row .card {
+  margin: 0.5rem;
+  position: inherit;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+}
+#contact {
+  height: 500px;
+}
